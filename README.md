@@ -1,0 +1,1 @@
+Projeto feito utilizando SQLite, React e React Native
