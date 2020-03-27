@@ -1,14 +1,12 @@
 import React from 'react';
 
-import Logon from './Components/Logon/Logon'
+import Router from './Components/Router/Router'
 
 import './global.css'
 
 function App() {
   return (
-    <div className="App">
-      <Logon/>
-    </div>
+    <Router/>
   );
 }
 
