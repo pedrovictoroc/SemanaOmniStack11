@@ -1,9 +1,13 @@
 import React from 'react';
 
+import Logon from './Components/Logon/Logon'
+
+import './global.css'
+
 function App() {
   return (
     <div className="App">
-      <h1> eae kk </h1>
+      <Logon/>
     </div>
   );
 }
