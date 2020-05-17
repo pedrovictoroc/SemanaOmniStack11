@@ -8,7 +8,7 @@ Projeto feito utilizando SQLite, React e React Native
 <img src="/images/registro.png">
 
 # Opening Mobile
-<img src="/images/opening.jpeg">
+<img src="/images/opening.jpg">
 
 # Intro Mobile
 <img src="/images/intro.jpeg">
